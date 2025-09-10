@@ -1,4 +1,4 @@
-# Imagem base Python 3.11 slim
+
 FROM python:3.11-slim
 
 # Define o diretório de trabalho
